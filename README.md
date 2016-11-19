@@ -1,4 +1,7 @@
 # Plasma-Science-Video-Game
+
+Simulation of plasma confinement as used in nuclear fusion. 2D Java Applet for educational outreach.
+
 Acknowledgements
 This program was written by David Lerner under the direction of Jerry Hughes and was funded by the PSFC from November '09 through January '10. My thanks go out to Andy Russell, Michael Jones, Henry Mei, and Will Barr for some pointers on the quirks of java and David Levonian for helping me hash out a couple of algorithms.
 
